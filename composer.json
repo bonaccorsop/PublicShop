@@ -1,0 +1,10 @@
+{
+	"require" : {
+		"johnpbloch/wordpress": "dev-master",
+		"nesbot/Carbon": "*"
+	},
+
+	"config" : {
+		"process-timeout" : 600
+	}
+}
